@@ -23,7 +23,3 @@ from gtts import gTTS
 import tkinter as Tk
 import os
 
-GROUP MEMBERS:
-Sagarika Limaye
-Akhil Wadhwa
-Suyash Sule
