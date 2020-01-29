@@ -11,8 +11,8 @@ if the code gives error change to:
 _, contours, _ = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
 The libraries needed are:
-import cv2
-import math
+import cv2  
+import math  
 import numpy as np
 import pyautogui
 from statistics import mode
